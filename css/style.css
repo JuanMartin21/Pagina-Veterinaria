@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #D5E5F2;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+}
+#NavConta{
+    border: solid black;
+    line-height: 25px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+#nave{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+.linkNav{
+    padding: 7px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+/*
+.linkNav{
+    text-decoration: none;
+    font-weight: bold;
+    color: #444;
+    cursor: pointer;
+}
+*/
