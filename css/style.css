@@ -56,5 +56,19 @@ nav ul li{
     width: 1290px;
 }
 
+.SerArt{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    display: flex;
+}
+
+
+.LogoFoot{
+    width: 25px;
+
+}
+
 
 
